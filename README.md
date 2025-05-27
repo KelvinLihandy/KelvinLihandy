@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
-<h3 align="center">Some random dev that is floating in space 👨‍🚀🌌🚀</h3>
+<h3 align="center">Some random dev that is floating in space 👨‍🚀</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kelvinlihandy&theme=flat&no-frame=true&no-bg=true" alt="kelvinlihandy" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinlihandy" alt="kelvinlihandy" /></a> </p>
 
 ---
 
