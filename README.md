@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -33,9 +33,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinlihandy&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
